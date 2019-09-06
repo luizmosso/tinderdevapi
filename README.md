@@ -1,6 +1,7 @@
-# Simple Social Media API
+# Github developers API
 
-This is a simple web api. Built to provide the data needed for applications that work with instagram-style user posts. Implemented entirely in javascript under nodejs platform using the express framework. We chose the non-relational database mongodb and applied websocket communication for real time data update in client applications.
+This is a simple web api. Built to provide the data needed for applications that work with tinder-style user match. Implemented entirely in javascript under nodejs platform using the express framework. We chose the non-relational database mongodb and applied websocket communication for real time data update in client applications.
+The Api integrates with the github user api allowing users to find each other and match the developers they most admire or would like to work with on their team
 
 ## Getting Started
 
@@ -19,7 +20,6 @@ CONNECTIONSTRING=...
 * [Express](https://expressjs.com) - Web Framework
 * [Mongodb](https://www.mongodb.com/) - The database
 * [Mongoose](https://mongoosejs.com/) - Used to modeling mongodb database
-* [Socket IO](https://socket.io/) - Real time engine 
 
 ## Authors
 
