@@ -1,7 +1,7 @@
-# Github developers API
+# Developers API
 
-This is a simple web api. Built to provide the data needed for applications that work with tinder-style user match. Implemented entirely in javascript under nodejs platform using the express framework. We chose the non-relational database mongodb and applied websocket communication for real time data update in client applications.
-The Api integrates with the github user api allowing users to find each other and match the developers they most admire or would like to work with on their team
+This is a simple web api. Built to provide the data needed for applications that work with tinder-style user match. Implemented entirely in javascript under nodejs platform using the express framework. We chose the non-relational database mongodb.
+The Api allows us to create developers profile based on GitHub data setting likes and dislikes for them
 
 ## Getting Started
 
